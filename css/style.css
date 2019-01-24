@@ -18,8 +18,8 @@ body {
 .big-box {
     border-radius: 10px;
     overflow: hidden;
-    /* margin-top: 150px;
-    margin-bottom: 150px; */
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .content-us {
