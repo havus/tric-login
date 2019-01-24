@@ -30,7 +30,11 @@ body {
 }
 
 .heading-primary {
-    margin: 100px 0 50px 50px;
+    margin: 0 0 50px 50px;
+}
+
+.text-box {
+    margin: 100px 0 70px 0;
 }
 
 .main {
@@ -45,6 +49,10 @@ body {
     font-size: 20px;
     text-transform: uppercase;
     display: block;
+}
+
+.service-icon {
+    margin-right: 7px;
 }
 
 .service {
