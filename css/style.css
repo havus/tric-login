@@ -69,7 +69,6 @@ body {
 
 .login-box {
     background-color: rgba(109, 109, 109, .5);
-    border-radius: 0 10px 10px 0;
     padding: 0 40px 50px;
     /* color: white; */
 }
@@ -89,7 +88,6 @@ body {
 .form-control {
     background: transparent;
     border: 0;
-    border-radius: 10px;
     border-bottom: 1px solid rgb(226, 226, 226);
     color: white !important;
 }
@@ -115,11 +113,11 @@ input::placeholder {
 @media (max-width: 992px) {
     .heading-primary {
         text-align: center;
-        margin: 0 20px 50px;
+        margin: 0 10px 50px;
     }
 
     .text-box {
-        margin: 50px 0 30px;
+        margin: 50px 0 50px;
     }
     
     .main {
