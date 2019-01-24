@@ -14,7 +14,8 @@ body {
         url(../assets/outdoor.jpg);
     background-position: 0 -100px;
     background-attachment: fixed;
-    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-size: auto;
     color: white;
 }
 
