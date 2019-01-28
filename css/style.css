@@ -8,7 +8,7 @@ body {
     rgba(26, 43, 66, .85),
     rgba(40, 180, 133, .8)), 
         url(../assets/outdoor.jpg);
-    background-position: 0 -100px;
+	background-position: 0 -100px;
     background-attachment: fixed;
     /* background-repeat: no-repeat; */
     background-size: auto;
@@ -104,6 +104,10 @@ input::placeholder {
 
 .password {
     margin-bottom: 50px;
+}
+
+.us-btn {
+    width: 100%;
 }
 
 @media (max-height: 500px) {
